@@ -1,0 +1,6 @@
+{
+  "name": "Smart Classroom Utility Management System - Circuit Schematic",
+  "description": "Professional, technically accurate electronic circuit schematic diagram and KiCad EDA design package for district-level PCB competition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
